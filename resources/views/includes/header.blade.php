@@ -15,6 +15,13 @@
             <div class="module">
                 <a href="#" class="link_auth">Войти</a>
             </div>
+            <div class="panel">
+                <ul>
+                    <a href="">Корзина</a>
+                    <a href="">Настройки</a>
+                    <a href="">Выйти</a>
+                </ul>
+            </div>
         </div>
     </div>
 </div>

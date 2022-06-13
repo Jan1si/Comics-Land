@@ -20,6 +20,7 @@
     <footer class="footer">
         @include('includes.footer')
     </footer>
+    <script src="{{ asset('scripts/main.js') }}"></script>
 </div>
 
 
